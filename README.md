@@ -67,6 +67,10 @@ This project creates a simple interactive Drum Kit using HTML, CSS, and JavaScri
 - **makeSound(key):** Plays the corresponding drum sound based on the key pressed.
 - **buttonAnimation(currentKey):** Adds and removes the 'pressed' class to the active button for visual feedback.
 
+## Live Demo
+
+The project is deployed and can be accessed [here](https://tasmii.github.io/DrumKit/).
+
 ## Author
 
 - **Tasmiya Ilahi**
